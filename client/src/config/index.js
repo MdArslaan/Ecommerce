@@ -224,7 +224,8 @@ export const addressFormControls = [
 ];
 
 export const API= {
-  API_URL: "http://localhost:5000",
+  // API_URL: "http://localhost:5000",
+  API_URL: "https://ecommerce-t3ns.onrender.com",
 };
 
 // export default config;
